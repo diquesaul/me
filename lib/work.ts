@@ -23,11 +23,11 @@ export const projects: Project[] = [
   {
     name: "docs",
     description: "A platform for learning and sharing knowledge",
-    url: "https://docs.robinlabs.xyz/docs",
+    url: "#",
   },
   {
     name: "portfolio",
     description: "My personal portfolio showcasing my work",
-    url: "https://robinlabs.xyz",
+    url: "https://diquesaul.me",
   },
 ];
