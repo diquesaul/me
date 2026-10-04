@@ -30,4 +30,9 @@ export const projects: Project[] = [
     description: "My personal portfolio showcasing my work",
     url: "https://diquesaul.me",
   },
+  {
+    name: "jasada",
+    description: "An online catalog and instant quote builder for pig and poultry farm equipment"
+    url: "https://www.jasadard.com/",
+  },
 ];
