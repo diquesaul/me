@@ -32,7 +32,8 @@ export const projects: Project[] = [
   },
   {
     name: "jasada",
-    description: "An online catalog and instant quote builder for pig and poultry farm equipment"
+    description:
+      "An online catalog and instant quote builder for pig and poultry farm equipment",
     url: "https://www.jasadard.com/",
   },
 ];
